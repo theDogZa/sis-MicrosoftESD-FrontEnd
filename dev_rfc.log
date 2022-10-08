@@ -1,0 +1,10 @@
+
+**** Log file opened at 2021-12-22 15:10:39.175021 UTC+07:00 (SE Asia Standard Time), Encoding UTF-8
+NW RFC Library: SDK variant, Release 750 Patch Level 8, Compiled on Apr 17 2021 03:23:42
+ CPIC library: 753.2020.03.230 version 3, NI library: 40, Kernel Release: 753 Patch Level 814
+ Current working directory: C:\webroot\sis-MicrosoftESD-FrontEnd, Program: php
+ Hardware: PC with Windows NT 8x AMD64 Level 6 (Mod 142 Step 12), Operating_system: Windows NT 10.0
+ Hostname: PRASONG, IP address: 172.21.102.86, IPv6 address: fe80::f498:8a1a:dc33:20c8
+
+2021-12-22 15:10:39.175200 [35668] >> Info entry
+	Did not find config file C:\webroot\sis-MicrosoftESD-FrontEnd\sapnwrfc.ini.
